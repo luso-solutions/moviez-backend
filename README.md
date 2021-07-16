@@ -1,7 +1,7 @@
 # moviez-backend
 A microservice responsible for receiving registered patron/moviegoer, adding genres, list of movies, and finding interested subscribers  to a movie during SMS broadcasting
 
-5 endpoints
+4 endpoints
   1) http://localhost/moviez/index.php/Genres
   
     name - CRUD
